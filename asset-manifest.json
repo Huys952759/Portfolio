@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d00a118f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.90698c9f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.90698c9f.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e029fae7.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e029fae7.js.map",
+    "static/css/2.a641e29a.chunk.css": "/Portfolio/static/css/2.a641e29a.chunk.css",
+    "static/js/2.f4be485a.chunk.js": "/Portfolio/static/js/2.f4be485a.chunk.js",
+    "static/js/2.f4be485a.chunk.js.map": "/Portfolio/static/js/2.f4be485a.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.3297c9359c313cae7a137edd6cc59c3b.js": "/Portfolio/precache-manifest.3297c9359c313cae7a137edd6cc59c3b.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.a641e29a.chunk.css.map": "/Portfolio/static/css/2.a641e29a.chunk.css.map",
+    "static/css/main.d00a118f.chunk.css.map": "/Portfolio/static/css/main.d00a118f.chunk.css.map",
+    "static/js/2.f4be485a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.f4be485a.chunk.js.LICENSE.txt",
+    "static/media/Azure.png": "/Portfolio/static/media/Azure.cc466e57.png",
+    "static/media/CSU.png": "/Portfolio/static/media/CSU.b61184ef.png",
+    "static/media/DrumMachine.png": "/Portfolio/static/media/DrumMachine.6d57b8f4.png",
+    "static/media/Government.png": "/Portfolio/static/media/Government.d3f0521a.png",
+    "static/media/Hidilao.png": "/Portfolio/static/media/Hidilao.cd95acac.png",
+    "static/media/JWR.png": "/Portfolio/static/media/JWR.ec6c4f00.png",
+    "static/media/JavaScriptCalculator.png": "/Portfolio/static/media/JavaScriptCalculator.a8526700.png",
+    "static/media/MarkdownPreviewer.png": "/Portfolio/static/media/MarkdownPreviewer.c6849eb1.png",
+    "static/media/Photograph.png": "/Portfolio/static/media/Photograph.b55b6b6c.png",
+    "static/media/PomodoroClock.png": "/Portfolio/static/media/PomodoroClock.791992ce.png",
+    "static/media/Time.png": "/Portfolio/static/media/Time.ffe49290.png",
+    "static/media/UBC.png": "/Portfolio/static/media/UBC.31057188.png",
+    "static/media/Weather.png": "/Portfolio/static/media/Weather.d4537fee.png",
+    "static/media/random.png": "/Portfolio/static/media/random.b3470487.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e029fae7.js",
+    "static/css/2.a641e29a.chunk.css",
+    "static/js/2.f4be485a.chunk.js",
+    "static/css/main.d00a118f.chunk.css",
+    "static/js/main.90698c9f.chunk.js"
+  ]
+}
